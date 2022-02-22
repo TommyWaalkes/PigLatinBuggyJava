@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Tommy\Desktop\Java\Piglatin\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1172502463.index
+2143427277.index
